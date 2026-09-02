@@ -1,32 +1,82 @@
-# Cauã Nascimento
+# Olá! Eu sou o Cauã Nascimento 
 
-Estudante de Análise e Desenvolvimento de Sistemas na FECAP, com interesse em desenvolvimento de software, dados, inteligência artificial e automação.
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente, desenvolvo projetos acadêmicos utilizando C#, Python e SQL, além de aprofundar meus conhecimentos em banco de dados.
+Sou estudante de ADS, interessado em tecnologia e em áreas como
+desenvolvimento de software, dados, automação e Inteligência Artificial.
 
-## Tecnologias
+Atualmente, busco desenvolver meus conhecimentos por meio da graduação,
+cursos e projetos práticos, enquanto procuro minha primeira oportunidade
+profissional na área de tecnologia.
 
-- C#
-- Python
-- SQL
-- Git e GitHub
-- HTML e CSS
+---
 
-## Projetos
+## 🚀 Sobre mim
 
-### Projeto Integrador — C#
-Desenvolvimento de um sistema em equipe, com aplicação de lógica de programação, operações CRUD, validações e modelagem de banco de dados.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Interesse em Desenvolvimento, Dados, Automação e IA
+- 🧠 Buscando aprendizado contínuo e experiência prática
+- 🤝 Experiência em projetos acadêmicos e trabalho em equipe
 
-[Ver repositório](https://github.com/caua-nascto/projeto-integrador-csharp)
+---
 
-## Formação
+## 🛠️ Tecnologias e conhecimentos
 
-**Análise e Desenvolvimento de Sistemas — FECAP**  
-2025 — 2027
+**Programação**
 
-## Atualmente estudando
+Python • C# • HTML • Lógica de Programação
 
+**Dados e Banco de Dados**
+
+SQL • Modelagem de Banco de Dados • SGBD • Normalização
+
+**Desenvolvimento de Software**
+
+CRUD • MVC • Requisitos Funcionais e Não Funcionais • Métodos Ágeis
+
+**Ferramentas**
+
+Git • GitHub • Excel • Power BI (em aprendizado) • Figma
+
+---
+
+# 📌 Projetos em destaque
+
+### 📈 Monitor de Ações e FIIs
+
+Projeto desenvolvido em Python com foco no acompanhamento de informações
+do mercado financeiro.
+
+🔗 [Ver projeto](https://github.com/caua-nascto/monitor-acoes-fiis)
+
+---
+
+### 🖥️ Projeto Integrador em C#
+
+Projeto acadêmico desenvolvido em C#, envolvendo lógica de programação,
+CRUD, validações e modelagem de banco de dados.
+
+🔗 [Ver projeto](https://github.com/caua-nascto/projeto-integrador-csharp)
+
+---
+
+## 📚 Atualmente estudando
+
+- Python aplicado a Dados e Automação
 - SQL e Banco de Dados
-- Python, C#, JavaScript
-- Desenvolvimento de Software
-- Inteligência Artificial e Automação
+- Power BI
+- Inteligência Artificial
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade profissional na área de tecnologia,
+onde eu possa aprender com profissionais experientes, contribuir com a
+equipe e continuar desenvolvendo minhas habilidades na prática.
+
+---
+
+## 🤝 Contato
+
+[LinkedIn](SEU_LINK_AQUI)
