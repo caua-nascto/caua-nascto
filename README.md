@@ -79,4 +79,4 @@ equipe e continuar desenvolvendo minhas habilidades na prática.
 
 ## 🤝 Contato
 
-[LinkedIn](https://www.linkedin.com/in/caua-nascimento)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cauã%20Nascimento-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caua-nascimento)
